@@ -1,0 +1,2 @@
+# Stok-Barang
+Project Pertama
