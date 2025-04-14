@@ -29,16 +29,3 @@ Aplikasi web sederhana berbasis **PHP** dan **MySQL** untuk mengelola stok baran
    cd Stok-Barang
    
 
-📂 Struktur Folder Utama
-
-📦Stok-Barang
-├── css/
-├── js/
-├── assets/
-├── function.php
-├── index.php
-├── masuk.php
-├── keluar.php
-├── export.php
-├── logout.php
-└── README.md
